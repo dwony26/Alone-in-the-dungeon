@@ -1,0 +1,35 @@
+﻿{
+	"EnemyList" : [
+		{
+			"Name" : "enemy_warrior",
+			"Health" : 100,
+			"Floor" : 1
+		}
+	],
+	"MonsterList" : [
+		{
+			"Name" : "orc_warrior",
+			"Power" : 1,
+			"Floor" : 1
+		}
+	],
+	"ItemList" : [
+		{
+			"Name" : "GoldRing",
+			"Amount" : 1000000
+		},
+		{
+			"Name" : "MinerNecklace",
+			"Amount" : 1000000
+		}
+	],
+	"QuestList" : [
+		{
+			"Name" : "GoldQuest",
+			"Reward" : 10000
+		}
+	],
+	"MineHealth" : 100,
+	"OrcMinerPower" : 1,
+	"UpgradeGold" : 1000
+}

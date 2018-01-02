@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="15" Column="44" />
+      <File FileName="Assets/Scripts/DataController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TabQuestController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TabItemController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TabAdController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/MetaData/Meta.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TabController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FloorController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MineController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/Monster.cs" Line="1" Column="1" />
+      <File FileName="../unity-clicker-game/Assets/Resources/MetaData/Meta.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/MetaData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GoldController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NotificationCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/Quest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TabMonsterController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TreasureController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SaveController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoginController.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
